@@ -34,14 +34,14 @@ body{
 
 
 .card{
-    width:clamp(15rem,42vh,26rem);
+    
     height:auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
-    
+    width: 100%;
+    max-width: 960px;
 }
 
 .card_sedan{
@@ -134,14 +134,17 @@ button{
     padding:1rem;
 }
 
-@media (min-width:90rem){
+@media (min-width:48rem){
     
-    .card{
-        width:clamp(27rem,60vw,60rem);
-        height:auto;
-        flex-direction: row;
-    }
+    .card {
+    flex-direction: row;
+  }
 
+  .card_sedan,
+  .card_suvs,
+  .card_luxury {
+    flex: 1;
+  }
     .card_sedan,.card_suvs,.card_luxury{
         padding:3.1rem;
     }
