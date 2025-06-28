@@ -33,7 +33,7 @@ Users should be able to:
 ### 🔗 Links
 
 - Solution URL: [Frontend Mentor](https://github.com/ShubhangiMishra215/3-column-preview-card-component.git)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Live Site URL: [Live Demo](https://shubhangimishra215.github.io/3-column-preview-card-component/)
 
 ---
 
