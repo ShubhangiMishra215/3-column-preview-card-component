@@ -48,4 +48,4 @@ I want to continue improving my skills in responsive design and explore CSS Grid
 ## Author
 
 - Frontend Mentor - (https://www.frontendmentor.io/profile/ShubhangiMishra215)
-- GitHub - (https://github.com/yourusername)
+- GitHub - (https://github.com/ShubhangiMishra215)
